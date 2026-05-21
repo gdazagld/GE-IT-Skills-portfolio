@@ -1,2 +1,2 @@
-GE-IT-Skills-portfolio
+#GE-IT-Skills-portfolio
 "Bringing ideas to life."
